@@ -51,7 +51,7 @@
 
 import Image from 'next/image';
 
-export default function SeamlessLayoutPage() {
+export default function LandingPage() {
   return (
     // Main container: full height, vertical flex layout, and relative for positioning the modal
     <div className="relative flex flex-col min-h-screen bg-gray-50">
